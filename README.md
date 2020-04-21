@@ -25,3 +25,7 @@ PIN &nbsp; SYMBOL &nbsp;&nbsp;&nbsp;&nbsp;	DESCRIPTION<br>
 22&nbsp;&nbsp;	TP_IRQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Touch Panel interrupt, low level while the Touch Panel detects touching<br>
 23&nbsp;&nbsp;	TP_SCK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	SPI clock of Touch Panel<br>
 26&nbsp;&nbsp;	TP_CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	  Touch Panel chip selection, low active<br>
+
+<p>
+  <a href="http://www.swampsoft.org/android/odroidtouchscreen/odroidtouchscreen.php">Download APK file here</a>
+</p>
