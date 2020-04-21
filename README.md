@@ -17,9 +17,9 @@ Hardware installation for touch screen with XPT2046:
 
 USED PINS:<br>
 PIN &nbsp; SYMBOL &nbsp;&nbsp;&nbsp;&nbsp;	DESCRIPTION<br>
-25&nbsp;&nbsp;	GND	 &nbsp;&nbsp;&nbsp;&nbsp;   Ground <br>
-19&nbsp;&nbsp;	TP_SI	&nbsp;&nbsp;  SPI data input of Touch Panel<br>
-21&nbsp;&nbsp;	TP_SO	 &nbsp;&nbsp; SPI data output of Touch Panel<br>
-22&nbsp;&nbsp;	TP_IRQ&nbsp;&nbsp;	Touch Panel interrupt, low level while the Touch Panel detects touching<br>
-23&nbsp;&nbsp;	TP_SCK&nbsp;&nbsp;	SPI clock of Touch Panel<br>
-26&nbsp;&nbsp;	TP_CS&nbsp;&nbsp;	  Touch Panel chip selection, low active<br>
+25&nbsp;&nbsp;	GND	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Ground <br>
+19&nbsp;&nbsp;	TP_SI	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  SPI data input of Touch Panel<br>
+21&nbsp;&nbsp;	TP_SO	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPI data output of Touch Panel<br>
+22&nbsp;&nbsp;	TP_IRQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Touch Panel interrupt, low level while the Touch Panel detects touching<br>
+23&nbsp;&nbsp;	TP_SCK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	SPI clock of Touch Panel<br>
+26&nbsp;&nbsp;	TP_CS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	  Touch Panel chip selection, low active<br>
